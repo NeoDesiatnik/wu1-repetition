@@ -1,0 +1,9 @@
+        <h1>h1 och andra h taggar är rubriker på sidan</h1>
+        <p>p taggen används för paragrafer</p>
+        <p>article taggen delar upp texten som i en tidnings artikel</p>
+        <p>section taggen delar upp i sektioner</p>
+        <img src="bilder/emoji.jpg" alt="emoji" height="400" width="400">
+        <p>ovan är en img tagg, den låter en lägga i bilder</p>
+        <p>denna tagg är en footer, den gör som en indelning</p>
+        <p>div är en container, som en låda med innehåll</p>
+        <p>====================================================================</p>

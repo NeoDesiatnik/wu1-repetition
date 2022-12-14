@@ -1,0 +1,28 @@
+.container {
+    width: min(80ch, 100vw - 2rem);
+    margin-inline: auto;
+}
+
+.navbar {
+    align-self: center;
+    justify-content: space-between;
+}
+
+img {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+}
+
+nav > ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    padding: 0;
+}
